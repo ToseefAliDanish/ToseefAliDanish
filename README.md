@@ -75,9 +75,9 @@
 
 # 🌐 Connect
 
-- LinkedIn: https://linkedin.com/in/your-profile
+- LinkedIn: https://linkedin.com/in/toseef1
 - Portfolio: https://toseef.site
-- Email: your@email.com
+- Email: toseefalidanish1@email.com
 
 ---
 
