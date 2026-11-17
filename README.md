@@ -2,18 +2,28 @@
 
 # TOSEEF ALI DANISH
 
-### IT SUPPORT & NETWORK ENGINEER
+### IT ENGINEER | IT SUPPORT & NETWORKING
 
-<p>
-  <a href="https://linkedin.com/in/toseef1">LinkedIn</a> •
-  <a href="mailto:toseefalidanish1@gmail.com">Email</a> •
-  <a href="https://wa.me/923129711413">Phone</a> •
-  Islamabad, Pakistan
-</p>
+**Technical Support · Network Administration · Application Support · Software Development**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=2563EB&center=true&vCenter=true&width=600&lines=IT+Support+%26+Networking;Technical+Support+%26+System+Management;Full+Stack+Software+Development;Application+Support+%26+IT+Operations" alt="Typing Animation" />
+<br>
+
+<a href="https://linkedin.com/in/toseef1">
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:toseefalidanish1@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+<a href="https://wa.me/923129711413">
+  <img src="https://img.shields.io/badge/WhatsApp-Contact-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
+</a>
+
+📍 Islamabad, Pakistan
 
 </div>
+
+---
+
 
 ---
 
