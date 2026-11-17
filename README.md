@@ -130,8 +130,4 @@ IT Engineer with practical experience in IT operations, technical support, syste
 
 <div align="center">
 
-**TOSEEF ALI DANISH**
-
-*IT Support • Networking • System Management • Software Development*
-
 </div>
