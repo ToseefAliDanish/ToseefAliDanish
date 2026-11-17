@@ -1,124 +1,69 @@
-# 👋 Hi, I'm Toseef Ali Danish
+# TOSEEF ALI DANISH
+### IT Support & Network Engineer
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF7F&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React.js+Developer;Node.js+%26+Express.js+Developer;PostgreSQL+Developer;AI+%26+Web+Development;Always+Learning+New+Technologies" />
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=ToseefAliDanish&label=Profile+Views&color=00ff7f&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Open%20To-Work-success?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Based%20In-Pakistan-success?style=for-the-badge"/>
-</p>
+[LinkedIn](https://linkedin.com/in/toseef1) | [Email](mailto:toseefalidanish1@gmail.com) | [+92 312 9711413](https://wa.me/923129711413) | Islamabad, Pakistan
 
 ---
 
-# 💫 About Me
+## PROFESSIONAL SUMMARY
 
-* 💻 Full Stack Developer
-* ⚛️ Building modern web applications with React.js
-* 🟢 Developing backend APIs with Node.js & Express.js
-* 🐘 Working with PostgreSQL databases
-* 🤖 Interested in AI, automation & intelligent applications
-* 🎓 BS Computer Engineering Technology
-* 🚀 Focused on building scalable and production-ready applications
-* 🌱 Continuously learning modern software development technologies
+IT Engineer with practical experience in IT operations, technical support, system management, and software development. Skilled in computer troubleshooting, Windows systems, LAN/WAN fundamentals, application support, data management, and web technologies. Experienced in supporting IT workflows, maintaining digital records, and developing software applications. Motivated to contribute technical expertise in IT infrastructure, networking, application management, and software solutions.
 
----
+## SKILLS
 
-# 🛠 Tech Stack
+**IT Support & Networking:** Computer Troubleshooting, IT System Support, LAN/WAN Fundamentals, Basic Network Troubleshooting, Application Support, Data Management.
 
-### Frontend
+**Software Development:** HTML, CSS, JavaScript, React.js, Next.js, Node.js, Express.js, PostgreSQL, AI Integration, Microsoft Azure Fundamentals.
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react"/>
-</p>
+**Professional Strengths:** Problem Solving, Analytical Thinking, Teamwork, Communication, Time Management, Adaptability, Attention to Detail.
 
-### Backend
+## EXPERIENCE
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
-</p>
+**Medical Card Manager — Trauma Center, Islamabad International Airport**  
+*December 2026*
 
-### Database
+- Managed and processed medical records, verified employee credentials, and maintained accurate MCM IT system records for **3,000+ employees** within a limited two-week timeframe.
 
-<p>
-<img src="https://skillicons.dev/icons?i=postgresql"/>
-</p>
+**Full Stack Developer Intern — Pakistan Airports Authority, Islamabad International Airport**  
+*July 2026 – November 2026*
 
-### Tools & Development
+- Developed responsive web interfaces and RESTful APIs using HTML, CSS, JavaScript, React.js, Next.js, Node.js, Express.js, and PostgreSQL, while performing API testing and Git-based version control.
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker"/>
-</p>
+**Frontend Developer Intern — DevelopersHub Corporation**  
+*March 2026 – May 2026*
 
----
+- Developed responsive, user-friendly web interfaces using HTML5, CSS3, JavaScript, and React.js, resolving UI/UX issues across different screen sizes in a remote development environment.
 
-# 📊 GitHub Stats
+## PROJECTS
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ToseefAliDanish&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToseefAliDanish&layout=compact&theme=tokyonight"/>
-</p>
+**AI Multi-Tasking Robot — Final Year Project**  
+*June 2026*
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=ToseefAliDanish&theme=tokyonight"/>
-</p>
+- Collaborated within a three-member engineering group to design and troubleshoot a smart mobile delivery robot by integrating Raspberry Pi microcontrollers, IR sensors, and ultrasonic modules for core navigation logic.
 
----
+**Airport Issue Management System (IIAP IMS) — Full Stack Project**  
+*September 2026*
 
-# 🏆 GitHub Trophies
+- Designed and developed a comprehensive, role-based operations and issue management system for Islamabad International Airport featuring automated SLA monitoring, dual-view analytics dashboards, and a secure JWT-authenticated MySQL backend.
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ToseefAliDanish&theme=tokyonight&row=2&column=4"/>
-</p>
+**Personal Portfolio Website — [www.toseef.site](https://toseef.site/)**  
+*March 2026*
 
----
+- Developed and deployed a responsive personal portfolio using modern web design principles to effectively showcase technical capabilities and professional projects.
 
-# 🚀 Featured Projects
+## EDUCATION
 
-| Project                                      | Technology / Description                     |
-| -------------------------------------------- | -------------------------------------------- |
-| **AMMS – Airport Medical Management System** | React.js + Node.js + Express.js + PostgreSQL |
-| **AI Hospital Delivery Robot**               | Raspberry Pi + AI + ChatGPT API              |
-| **Al Aziz Technologies**                     | Full Stack Web Development                   |
-| **AI Internship Finder**                     | React/Frontend + Python + Flask + AI         |
-| **IIAP Internship Projects**                 | Full Stack Web Development                   |
-| **Personal Portfolio**                       | React.js + Modern Web Technologies           |
+**Bachelor of Technology in Computer Engineering**  
+*2023 – 2027*  
+International Islamic University Islamabad
 
----
+**HSSC – Pre-Engineering**  
+*2022 – 2023*  
+Iqra College of Excellence, Kotli, Azad Kashmir
 
-# 🎯 2026 Goals
+## CERTIFICATIONS
 
-* 🚀 Master Full Stack JavaScript Development
-* ⚛️ Become highly proficient in React.js
-* 🟢 Build advanced Node.js & Express.js applications
-* 🐘 Master PostgreSQL and database architecture
-* ☁️ Learn Microsoft Azure and cloud deployment
-* 🤖 Build practical AI-powered applications
-* 🏢 Develop enterprise-level software systems
-* 🌍 Contribute to Open Source
-* 💼 Land a Full Stack Developer role
+**Microsoft Certified: Azure Fundamentals (AZ-900)**  
+*Issued August 2026*
 
----
-
-# 🌐 Connect With Me
-
-<p align="left">
-<a href="https://linkedin.com/in/toseef1">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://toseef.site">
-<img src="https://img.shields.io/badge/Portfolio-00FF7F?style=for-the-badge&logo=google-chrome&logoColor=black"/>
-</a>
-<a href="mailto:toseefalidanish1@email.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
-
----
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
-<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
+- Demonstrates foundational knowledge of cloud concepts, core Azure services, cloud security, and workload management.
