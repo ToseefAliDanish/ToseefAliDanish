@@ -2,9 +2,7 @@
 
 # TOSEEF ALI DANISH
 
-### IT ENGINEER | IT SUPPORT & NETWORKING
-
-**Technical Support · Network Administration · Application Support · Software Development**
+### IT SUPPORT & NETWORK ENGINEER
 
 <br>
 
@@ -18,14 +16,10 @@
   <img src="https://img.shields.io/badge/WhatsApp-Contact-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
 </a>
 
-📍 Islamabad, Pakistan
-
 </div>
 
 ---
 
-
----
 
 ## 👨‍💻 PROFESSIONAL SUMMARY
 
